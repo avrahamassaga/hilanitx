@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hilanitx/static/css/main.ed58acd6.css",
+    "main.js": "/hilanitx/static/js/main.216409fa.js",
+    "static/js/787.1f8a7f80.chunk.js": "/hilanitx/static/js/787.1f8a7f80.chunk.js",
+    "index.html": "/hilanitx/index.html",
+    "main.ed58acd6.css.map": "/hilanitx/static/css/main.ed58acd6.css.map",
+    "main.216409fa.js.map": "/hilanitx/static/js/main.216409fa.js.map",
+    "787.1f8a7f80.chunk.js.map": "/hilanitx/static/js/787.1f8a7f80.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed58acd6.css",
+    "static/js/main.216409fa.js"
+  ]
+}
