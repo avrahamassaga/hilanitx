@@ -8,7 +8,7 @@ export default function Final() {
             <img className="tickateIcon" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGLa9qwfQWVggQu-ZS4WmAmnG_kAaaddWgCdKv7kGmBhezLX8ho-uHh9faulJp7m4HS2FWGJvdBMgchYdfSO4kEtY0VKddHNjBd-b0_HRICEEpC0lVE4uxXcLoTCI6OaAS3ZcbnvzIsjbkiIVZGG5qbxo9u2FfE8XOYrUXDip6P7jNLlvnIg1Z0rwspA/s1600/finalPng.png" alt="tickate" />
             <h3 className="titleBuis" >א. מעויין שורק</h3>
         </div>
-        <h2 style={{color:'#41ae4c'}} >הארוחה נמסרה</h2>
+        <h2 style={{color:'#41ae4c'}} >הארוח נמסרה</h2>
         <h1>{setDay}</h1>
         <h2>שעה {clock}<br/>עבור {firstName} {lastName} {workerId}</h2>
     </div>
